@@ -2,7 +2,7 @@
 
 
 
-![cover](Tutorials\cover.png)
+![cover](Tutorials/cover.png)
 
 
 
