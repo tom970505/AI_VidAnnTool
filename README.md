@@ -2,7 +2,7 @@
 
 
 
-![cover](D:\+CLOUD\AI_Assisted_Anotation_Tool\Tutorials\cover.png)
+![cover](Tutorials\cover.png)
 
 
 
@@ -187,7 +187,7 @@ Notice that if the detection model has **mismatch name for the same class** in t
 ```
 * **Faster R-CNN**, using TensorFlow Object Detection API
 ```latex
-"Speed/accuracy trade-offs for modern convolutional object detectors."
+Speed/accuracy trade-offs for modern convolutional object detectors.
 Huang J, Rathod V, Sun C, Zhu M, Korattikara A, Fathi A, Fischer I, Wojna Z,
 Song Y, Guadarrama S, Murphy K, CVPR 2017
 ```
